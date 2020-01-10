@@ -13,7 +13,7 @@
 		<spring-webmvc.version>4.2.9.RELEASE</spring-webmvc.version>
 		<springframework.version>4.2.9.RELEASE</springframework.version>
 		<validation-api.version>1.1.0.Final</validation-api.version>
-		<jackson-databind.version>2.9.4</jackson-databind.version>
+		<jackson-databind.version>2.9.10.1</jackson-databind.version>
 		<javax.servlet-api.version>3.1.0</javax.servlet-api.version>
 		<jstl.version>1.2</jstl.version>
 		<hibernate.version>5.1.17.Final</hibernate.version>
